@@ -1,0 +1,11 @@
+# vendor packages
+node_modules
+
+# project meta
+.idea
+.settings
+
+# npm cruft
+npm-debug.log
+
+/dist
